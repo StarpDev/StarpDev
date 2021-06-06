@@ -1,6 +1,3 @@
-### Trying to code more even though I just can't code
-***
-
 ## Stats
 ![Profile views](https://gpvc.arturio.dev/StarpDev) 
 
@@ -10,7 +7,13 @@
 
 [![StarpDev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarpDev&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-#### [`skyline`](https://skyline.github.com/StarpDev/2021) *pathetic I know*
+***
+ 
+## More information
+#### [`skyline`](https://skyline.github.com/StarpDev/2021) for 2021
+#### Joined: 2021
+#### Started coding: never
+
 ***
 
 ## Goals that I will probably never meet
