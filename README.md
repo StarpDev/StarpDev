@@ -3,7 +3,7 @@
 ## Stats
 ![Profile views](https://gpvc.arturio.dev/StarpDev) 
 
-[![StarpDev's github stats](https://github-readme-stats.vercel.app/api?username=StarpDev&theme=red)](https://github.com/anuraghazra/github-readme-stats)
+[![StarpDev's github stats](https://github-readme-stats.vercel.app/api?username=StarpDev&theme=indigo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![StarpDev's github streak](https://github-readme-streak-stats.herokuapp.com/?user=StarpDev&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
