@@ -1,8 +1,7 @@
-### Trying to code more
+### Trying to code more even though I just can't code
 ***
 
-##### I just can't code
-### Stats
+## Stats
 ![Profile views](https://gpvc.arturio.dev/StarpDev) 
 
 [![StarpDev's github stats](https://github-readme-stats.vercel.app/api?username=StarpDev&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
