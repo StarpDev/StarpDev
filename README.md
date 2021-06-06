@@ -1,6 +1,8 @@
-# Welcome to my profile.
+### Trying to code more
 ***
-## Stats
+
+##### I just can't code
+### Stats
 ![Profile views](https://gpvc.arturio.dev/StarpDev) 
 
 [![StarpDev's github stats](https://github-readme-stats.vercel.app/api?username=StarpDev&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,13 +11,11 @@
 
 [![StarpDev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarpDev&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-### Click [`here`](https://skyline.github.com/StarpDev/2021) to go to my skyline.
+#### [`skyline`](https://skyline.github.com/StarpDev/2021) *pathetic I know*
 ***
 
-## My goals
-- work on python
+## Goals that I will probably never meet
+- improve my python
 - learn more `HTML/CSS/JS`
-***
 
-
-<br><br>
+<br>
