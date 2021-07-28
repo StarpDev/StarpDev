@@ -1,15 +1,15 @@
 ### Hi, welcome to my profile 👋
 #### You can call me Starp
 
-##### ✨ Joined github: April 20, 2021
-##### 🏫 Currently: learning Java 😁
-##### 💻 Beginner coder
+######✨ Joined github: April 20, 2021
+######🏫 Currently: learning Java 😁
+######💻 Beginner coder
 
 ***
 
 ### Empty Goals
-#####- improve my python
-#####- learn more `HTML/CSS/JS`
+- improve my python
+- learn more `HTML/CSS/JS`
 
 
 
@@ -19,4 +19,8 @@
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarpDev&layout=compact&theme=nightowl)](https://github.com/StarpDev/github-readme-stats)
 ***
+<a href="https://github.com/StarpDev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StarpDev&repo=StarpDev" />
+</a>
+
 <br>
