@@ -1,9 +1,9 @@
 ### Hi, welcome to my profile 👋
 #### You can call me Starp
 
-######✨ Joined github: April 20, 2021
-######🏫 Currently: learning Java 😁
-######💻 Beginner coder
+✨ Joined github: April 20, 2021
+🏫 Currently: learning Java 😁
+💻 Beginner coder
 
 ***
 
