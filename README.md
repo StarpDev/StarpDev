@@ -5,8 +5,6 @@
 #####🏫 Currently: learning Java 😁
 #####💻 Beginner coder
 
-***
-
 ### Empty Goals
 - improve my python
 - learn more `HTML/CSS/JS`
@@ -19,8 +17,6 @@
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarpDev&layout=compact&theme=nightowl)](https://github.com/StarpDev/github-readme-stats)
 ***
-<a href="https://github.com/StarpDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StarpDev&repo=StarpDev" />
-</a>
+
 
 <br>
