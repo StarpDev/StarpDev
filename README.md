@@ -12,11 +12,11 @@
 ## More information
 #### [`skyline`](https://skyline.github.com/StarpDev/2021) for 2021
 #### Joined: 2021
-#### Started coding: never
+#### Currently: learning Java 😁
 
 ***
 
-## Goals that I will probably never meet
+## Empty Goals
 - improve my python
 - learn more `HTML/CSS/JS`
 
