@@ -1,13 +1,13 @@
 ### Hi, welcome to my profile 👋
 #### You can call me Starp
 
-#####✨ Joined github: April 20, 2021
-#####🏫 Currently: learning Java 😁
-#####💻 Beginner coder
+###### ✨ Joined github: April 20, 2021
+###### 🏫 Currently: learning Java 😁
+###### 💻 Beginner coder
 
 ### Empty Goals
-- improve my python
-- learn more `HTML/CSS/JS`
+###### - improve my python
+###### - learn more `HTML/CSS/JS`
 
 
 
