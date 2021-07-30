@@ -5,7 +5,7 @@
 ###### 🏫 Currently: learning Java 😁
 ###### 💻 Beginner coder
 
-### Empty Goals
+### Goals
 ###### - improve my python
 ###### - learn more `HTML/CSS/JS`
 
